@@ -1,9 +1,7 @@
-import "./App.css";
-
 function App() {
   return (
-    <div className="App">
-      <h1 class="text-3xl font-bold underline">Hello world!</h1>
+    <div className="flex justify-center items-center min-h-full">
+      <h1 class="text-3xl font-bold underline">Basic Tailwind</h1>
     </div>
   );
 }
